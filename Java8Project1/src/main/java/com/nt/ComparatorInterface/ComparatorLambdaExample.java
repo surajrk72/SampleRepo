@@ -30,7 +30,7 @@ public class ComparatorLambdaExample {
 	
 	System.out.println("Result of the comparator usaing lambda is  ::"+comparator3.compare(3, 2));
 	
-	
+	System.out.println("suraj");
 		
 	}//main
 
